@@ -1,2 +1,3 @@
 # my-portfolio
-## animated portfolio project
+## animated portfolio website
+## contribute to this project
