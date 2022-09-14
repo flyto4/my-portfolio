@@ -1,3 +1,2 @@
 # my-portfolio
-## animated portfolio website
-## contribute to this project
+https://umar-arshad-portfolio.netlify.app/
